@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al -p --group-digits&directories{./..}-first -m -X
+ls -amp --group-digits&directories{./..}-first
