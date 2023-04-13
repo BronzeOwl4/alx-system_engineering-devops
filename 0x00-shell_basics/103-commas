@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp --group-digits&directories{./..}-first
+ls -m; ls -F; ls -a; ls -l; ls --group-directories-first; ls *[[:alnum:]] | sort -n
