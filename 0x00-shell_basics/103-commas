@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --sort-digits&letters -m -X --/ --sort-digits&directories{./..}-first
+ls -al --sort-digits&letters -m -X --/ --sort-digits&directories{./..}-first
