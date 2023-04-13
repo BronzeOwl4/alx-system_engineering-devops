@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m; ls -F; ls -a; ls -l; ls --group-directories-first; ls *[[:alnum:]] | sort -n
+ls -pamv
