@@ -13,4 +13,5 @@ The script in the file 11-directories_permissions adds execute permission to all
 The script in the file 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
 The script in the file 13-change_group changes the group owner to school for the file hello
 The script in the file 100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the working directoryThe script in the file 101-symbolic_link_permissions changes the owner and the group owner of _hello to vincent and staff respectively
-
+The script in the file 102-if_only changes the owner of the file hello to betty only if it is owned by the user guillaume
+The script in the file 103-star_wars play the StarWars IV episode in the terminal
