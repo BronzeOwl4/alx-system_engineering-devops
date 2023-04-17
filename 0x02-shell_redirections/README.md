@@ -19,3 +19,4 @@ The script in the file 17-touchthisword displays all the lines in the file /etc/
 The script in the file 18-letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter
 The script in the file 19-AZ replaces all characters A and c from input to Z and e respectively
 The script in the file 20-hiago removes all letters c and C from input
+The script in the file 21-reverse reverses its input
