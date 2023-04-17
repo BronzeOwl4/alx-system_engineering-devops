@@ -21,3 +21,4 @@ The script in the file 19-AZ replaces all characters A and c from input to Z and
 The script in the file 20-hiago removes all letters c and C from input
 The script in the file 21-reverse reverses its input
 The script in the file 22-users_and_homes displays all users and their home directories, sorted by users
+The script in the file 100-empty_casks finds all empty files and directories in the current directory and all sub-directories
