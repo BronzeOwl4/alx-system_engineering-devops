@@ -5,3 +5,4 @@ The script in the file 3-twofiles displays the contents of files passwd and host
 The script in the file 4-lastlines displays the last 10 lines of passwd in etc
 The script in the file 5-firstlines displays the first 10 lines of passwd in etc
 The script in the file 6-third_line displays the third line of the file iacta
+The script in the file 7-file creates a non empty specific file
